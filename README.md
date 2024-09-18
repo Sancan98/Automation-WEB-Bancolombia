@@ -1,4 +1,4 @@
-# Proyecto de pruebas automatizadas para BEL Honduras
+# Proyecto de pruebas automatizadas para pruebas WEB
 
 Este proyecto contiene pruebas automatizadas utilizando Cucumber, Selenium y Serenity BDD. Con lenguaje JAVA
 
